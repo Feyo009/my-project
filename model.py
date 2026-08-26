@@ -19,7 +19,8 @@ while True:
     else:
         print("number guessed correctly")  
         break
-print("Ypu are mine")
+print("Who you really are?")
+
 
         
         
