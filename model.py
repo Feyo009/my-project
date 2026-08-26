@@ -19,7 +19,7 @@ while True:
     else:
         print("number guessed correctly")  
         break
-print("I am a boy")
+print("Ypu are mine")
 
         
         
