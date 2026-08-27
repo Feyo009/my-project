@@ -19,8 +19,8 @@ while True:
     else:
         print("number guessed correctly")  
         break
-print("Who you really are?")
-
+print("I am a boy")
+print("Make me a Radio,turn me on when you feel alone")
 
         
         
