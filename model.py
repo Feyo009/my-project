@@ -21,6 +21,8 @@ while True:
         break
 print("I am a boy")
 print("Make me a Radio,turn me on when you feel alone")
+print("Our God is the GREATEST")
+
 
         
         
