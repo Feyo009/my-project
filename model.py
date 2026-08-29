@@ -17,7 +17,7 @@ while True:
         print("try again :")
         user = input("Guess a lucky number :")
     else:
-        print("number guessed correctly")  
+        print("number guessed rightly")  
         break
 print("I am a transgender")
 print("Make me a Radio,turn me on when you feel alone")
