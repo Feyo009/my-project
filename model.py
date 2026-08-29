@@ -27,6 +27,6 @@ print()
 for char in "MARCHES":
     print(char)
 
-print("okay let's play a game")
+print("okay let's play various games")
         
         
