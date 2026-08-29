@@ -19,7 +19,7 @@ while True:
     else:
         print("number guessed correctly")  
         break
-print("I am a boy")
+print("I am a transgender")
 print("Make me a Radio,turn me on when you feel alone")
 print("Our God is the GREATEST")
 print("God you are the GREATEST")
@@ -27,6 +27,6 @@ print()
 for char in "MARCHES":
     print(char)
 
-print("okay let's play a game")
+print("okay let's play various games")
         
         
